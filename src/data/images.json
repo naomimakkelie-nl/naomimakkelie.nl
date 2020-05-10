@@ -1,0 +1,692 @@
+[
+  {
+    "id": "5a6dcb1985e8c6196571f03d",
+    "filename": "files",
+    "contentType": "image/png",
+    "md5": "6ec1655f94352538e4fe728bff0dcb62",
+    "uploadDate": 1517144857555,
+    "length": 1244984,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Camouflage, 120 x 90 cm, Acrylic on canvas, 2016",
+      "ordinal": 44,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6dcb2485e8c6196571f043",
+    "filename": "files",
+    "contentType": "image/png",
+    "md5": "dd83c99737578ec1afbf09a7323c3ff9",
+    "uploadDate": 1517144868082,
+    "length": 2724263,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Lost in, 170 x 140 cm, Acrylic on canvas, 2017",
+      "ordinal": 43,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6dcb3085e8c6196571f04f",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "e2bd6c797aeb3ad775fce7abdb0b2ffb",
+    "uploadDate": 1517144880933,
+    "length": 2052224,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "",
+      "ordinal": 41,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6dcb3985e8c6196571f058",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "8be348a6a380170c2fb90c25b77797d0",
+    "uploadDate": 1517144889670,
+    "length": 1856938,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Seaweed, 100 x 80 cm, Acrylic on canvas, 2016",
+      "ordinal": 45,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6dcb5a85e8c6196571f06d",
+    "filename": "files",
+    "contentType": "image/png",
+    "md5": "1b00a3896062ae05ecbd26bffeec6f4c",
+    "uploadDate": 1517144922206,
+    "length": 845791,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Neighbourhood, Hooghiemstra, 2017",
+      "ordinal": 45,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6dcb6a85e8c6196571f072",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "3832e81e21f38d9662f27737197f558b",
+    "uploadDate": 1517144938592,
+    "length": 387932,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Overview May 2017",
+      "ordinal": 26,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6dcb9385e8c6196571f075",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "a3362b30fe3398ff64c10d044fe94a10",
+    "uploadDate": 1517144979805,
+    "length": 1245166,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Fuck the cloud, 180 x 140 cm, Acrylic on canvas, 2017",
+      "ordinal": 15,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6dd3db85e8c6196571f083",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "4dd4123e1b007e28d7f09a7e781fa263",
+    "uploadDate": 1517147099516,
+    "length": 4924171,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "",
+      "ordinal": 38,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6df41185e8c6584fbdfc35",
+    "filename": "files",
+    "contentType": "image/png",
+    "md5": "b38121327a5cbe52db924dc738e08039",
+    "uploadDate": 1517155345645,
+    "length": 689917,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Overview December 2016",
+      "ordinal": 45,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6e48bf85e8c6584fbdfc39",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "dedbaf0d99eaa33657bb1fb771b887f8",
+    "uploadDate": 1517177023917,
+    "length": 979344,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Losing lives by Venus's trap, 100 x 80 cm, Acrylic on canvas, 2017",
+      "ordinal": 32,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a6e4e1c85e8c6584fbdfc45",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "a446e529845540a46c2ebf232e5c3a2a",
+    "uploadDate": 1517178396387,
+    "length": 349362,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Daruma remains p.2, 90 x 70 cm, Acrylic on canvas, 2017",
+      "ordinal": 45,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a70b75285e8c6584fbdfc51",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "11dac0ddfa32343ccf85a84ee1d3fd72",
+    "uploadDate": 1517336402240,
+    "length": 822420,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Daruma remains: swimming pool sensations, 200 x 160 cm, Acrylic on canvas, 2017",
+      "ordinal": 31,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a70bb1e85e8c6584fbdfc56",
+    "filename": "files",
+    "contentType": "image/png",
+    "md5": "e2871af0145684e74fcf6f911e113d7d",
+    "uploadDate": 1517337374618,
+    "length": 1361758,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Daruma remains, 50 x 40 cm, Acrylic and oil on canvas, 2017",
+      "ordinal": 20,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a70fd9185e8c6584fbdfc62",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "c65f705c5cd67ba1021062f92cdd2e3c",
+    "uploadDate": 1517354385757,
+    "length": 1867479,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "The city is cold, 145 x 120 cm, Acrylic on canvas, 2017",
+      "ordinal": 39,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a71107e85e8c6584fbdfc6b",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "b4f89bba7c7c6344d4a6bc5d64bba7ea",
+    "uploadDate": 1517359230694,
+    "length": 1879519,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Temple, 100 x 80 cm, Acrylic on canvas, 2016",
+      "ordinal": 45,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a7119e785e8c6584fbdfc74",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "29e06f4d59ff80b2775007f47caa9ca1",
+    "uploadDate": 1517361639320,
+    "length": 1682060,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Constructed landscape, 120 x 90 cm, Acrylic on canvas, 2016",
+      "ordinal": 45,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a719d2885e8c6584fbdfc80",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "04e11c30af9cfebe10dd42beb428cbcc",
+    "uploadDate": 1517395240318,
+    "length": 605971,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Gelimi, 200 x 160 cm, Acrylic on canvas, 2017",
+      "ordinal": 25,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5a74275985e8c6584fbdfc8b",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "359b9517ea73a4beaa0589c42116f25b",
+    "uploadDate": 1517561689770,
+    "length": 1448453,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Seaweed p.3, 100 x 80 cm, Acrylic on canvas, 2016",
+      "ordinal": 45,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5ab9337b85e8c62e3fd1ebb7",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "a9caa00a115584e208583e0e9a05db4c",
+    "uploadDate": 1522086779520,
+    "length": 933353,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Himalaya, 50 x 30 cm, Oil on canvas, 2018",
+      "ordinal": 30,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5afa0eed85e8c604a2b5aeea",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "b52f0c91fc03a45cfb180437aa3e75a9",
+    "uploadDate": 1526337261755,
+    "length": 1398857,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Swimming pool translations, 45 x 35 cm, Oil on canvas, 2018",
+      "ordinal": 23,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5afa107585e8c604a2b5aef1",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "1c231019d9684b2943278d2cd22e4b9c",
+    "uploadDate": 1526337653244,
+    "length": 2207008,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Seaweed p.4, 190 x 150 cm, Acrylic on canvas, 2018\n",
+      "ordinal": 28,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b0a6d2d85e8c604a2b5af04",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "307694d93fbbfc7fd3f253cb7dc7ca83",
+    "uploadDate": 1527409965779,
+    "length": 1875372,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Seaweed p.4, Acrylic on canvas, 200 x 150 cm, 2018\n",
+      "ordinal": 15,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b166ee185e8c604a2b5af43",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "774c525c0df199b92513ac3eac18badb",
+    "uploadDate": 1528196833134,
+    "length": 1296505,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Tears of joy, 180 x 140 cm, Oil on canvas, 2018\n",
+      "ordinal": 20,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b2ab07985e8c604a2b5af52",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "b1cf34f090ec57b73a277e3e4ebbbc39",
+    "uploadDate": 1529524345666,
+    "length": 780981,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Overview Exposure HKU Beeldende Kunst 2018",
+      "ordinal": 10,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b2ab7de85e8c604a2b5af62",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "2d22c6c7cc179decf69a596d615a2521",
+    "uploadDate": 1529526238493,
+    "length": 741198,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Overview Exposure HKU Beeldende Kunst 2018",
+      "ordinal": 14,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b2aca4c85e8c604a2b5af66",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "474a579551c17aff0ed41ad9d2e29bea",
+    "uploadDate": 1529530956448,
+    "length": 1049598,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Big city dreams, 250 cm x 180 cm, Oil and Acrylic on canvas, 2018",
+      "ordinal": 26,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b2ad53785e8c604a2b5af6c",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "06ee973432f01fba482778455f7db51b",
+    "uploadDate": 1529533751372,
+    "length": 1209770,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Overview Exposure HKU Beeldende Kunst 2018",
+      "ordinal": 11,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b32b74285e8c62ea5ee81e9",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "14cb29ac495c394e7c14e981efb0aebf",
+    "uploadDate": 1530050370461,
+    "length": 1223514,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Seaweed p.4, 200 x 150 cm, Acrylic on canvas, 2018",
+      "ordinal": 17,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b32b9bf85e8c62ea5ee81ef",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "3e8143740feeb2e3800e178479dc2d4e",
+    "uploadDate": 1530051007819,
+    "length": 1016047,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Tears of joy, 180 x 140 cm, Oil on canvas, 2018",
+      "ordinal": 25,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b3a4d3085e8c67988effea3",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "fec7ea05b6414e9d4bcaec56eb34ea5b",
+    "uploadDate": 1530547504549,
+    "length": 932129,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Green Mamba, 190 x 145 cm, Acrylic on canvas, 2018",
+      "ordinal": 20,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b3c75af85e8c67988effea8",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "d93734a2683dafb12c2d995da1dd85d9",
+    "uploadDate": 1530688943060,
+    "length": 1152645,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Overview Exposure HKU Beeldende Kunst 2018",
+      "ordinal": 13,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b49b96b85e8c61927f299d6",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "6ff29ab972ba22b20e7da6cc6b3f1647",
+    "uploadDate": 1531558251127,
+    "length": 926817,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Green Mamba, 190 x 145 cm, Acrylic on canvas, 2018",
+      "ordinal": 16,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b49bb8d85e8c61927f299db",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "b4750419e97e6b2af7b20b42b84dd7b3",
+    "uploadDate": 1531558797293,
+    "length": 1163165,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Overview Exposure HKU Beeldende Kunst 2018",
+      "ordinal": 13,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5b5f512d85e8c6265db8afbf",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "49d2529ffb697e9bebabea6dc79a6f62",
+    "uploadDate": 1532973357302,
+    "length": 728807,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Big city dreams, 250 cm x 180 cm, Oil and Acrylic on canvas, 2018",
+      "ordinal": 20,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5bd0d15c85e8c6318d7bb2ae",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "fd986639a61532360739b6bb77ba836a",
+    "uploadDate": 1540411740348,
+    "length": 1047323,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Royal Award for Modern Painting, Royal Palace of Amsterdam",
+      "ordinal": 9,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5bd0d1c285e8c6318d7bb2b4",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "99290cf8104f7c55f755617e9574cfb6",
+    "uploadDate": 1540411842556,
+    "length": 1696594,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Last page, 145 x 85 cm, Acrylic on canvas, 2018",
+      "ordinal": 9,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5bd0d24485e8c6318d7bb2bc",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "793c6be12de857b91b5cf5d743f48df0",
+    "uploadDate": 1540411972757,
+    "length": 2801282,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Detail Last page",
+      "ordinal": 7,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5bd0d3d785e8c6318d7bb2c8",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "a162e05b5d62bf2eae1aa52c47f73fcf",
+    "uploadDate": 1540412375643,
+    "length": 1034888,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Last page, 145 x 85 cm, Acrylic on canvas, 2018",
+      "ordinal": 8,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5c8cad61de0d870006cd1ce0",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "1a75403bd4613e56bde4ba6f0e6e1ae0",
+    "uploadDate": 1552723297705,
+    "length": 778333,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Constructed landscape, 150 x 115 cm, Acrylic on canvas, 2019",
+      "ordinal": 6,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5c8cae64de0d870006cd1ce6",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "d0db584cf4d4719d02dfecb1d9ace307",
+    "uploadDate": 1552723556551,
+    "length": 501877,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Airplane mode, 100 x 80 cm, Acrylic on canvas, 2019",
+      "ordinal": 5,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5ceba2596114080006b01ff1",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "40c3674ba15f8e00e00fc76377d9ba8b",
+    "uploadDate": 1558946393871,
+    "length": 738006,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Seasick, 180 x 150 cm, Acrylic on canvas, 2019",
+      "ordinal": 3,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5d02b2906114080006b01ff5",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "6deee79bdef984b1d472bed9e43dbf47",
+    "uploadDate": 1560457872886,
+    "length": 939365,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "I'll wait forever, 180 x 160 cm, Acrylic on canvas, 2019",
+      "ordinal": 0,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5d02b9846114080006b01ffa",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "17d1158d7f6eb127b541e90c3fbe78fe",
+    "uploadDate": 1560459652501,
+    "length": 676033,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Seasick, 180 x 150 cm, Acrylic on canvas, 2019",
+      "ordinal": 2,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5d02ba246114080006b01ffe",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "bd04bab2fad39d0e0fc62fb59d8a7d43",
+    "uploadDate": 1560459812474,
+    "length": 614992,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "I'll wait forever, 180 x 160 cm, Acrylic on canvas, 2019",
+      "ordinal": 1,
+      "visible": true,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5d2516026114080006b02002",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "e863d2e6b387c58ea25934780c597728",
+    "uploadDate": 1562711554976,
+    "length": 873635,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "Daruma Galaxy, 120 x 90 cm, Acrylic on canvas, 2019",
+      "ordinal": 4,
+      "visible": false,
+      "deleted": null
+    }
+  },
+  {
+    "id": "5d8129686114080006b02007",
+    "filename": "files",
+    "contentType": "image/jpeg",
+    "md5": "b5bc5f44e376848b7a6dca6060497a30",
+    "uploadDate": 1568745832783,
+    "length": 770125,
+    "chunkSize": 261120,
+    "metadata": {
+      "text": "    Illiterature (left) and Daruma Galaxy (right) at Arti et Amicitiea ",
+      "ordinal": 45,
+      "visible": true,
+      "deleted": null
+    }
+  }
+]
