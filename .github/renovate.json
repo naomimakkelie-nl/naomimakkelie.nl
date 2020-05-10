@@ -1,6 +1,6 @@
 {
   "extends": ["config:base", ":semanticCommitType(chore)"],
-  "baseBranches": ["develop"],
+  "baseBranches": ["master"],
   "labels": ["bot(renovate)", "impact(low)"],
   "semanticCommits": true,
   "lockFileMaintenance": {
