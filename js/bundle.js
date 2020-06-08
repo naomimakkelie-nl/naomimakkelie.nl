@@ -14337,7 +14337,141 @@
         Object.defineProperty(t, "__esModule", { value: !0 });
         var r = n(2);
         n(769), t.CVPage = function () {
-            return r.createElement("div", { className: "page-wrapper cv-page" }, r.createElement("div", null, r.createElement("h2", null, "Naomi Mitsuko Makkelie (1992), Amsterdam"), r.createElement("h2", null, "Education"), r.createElement("p", null, "HKU Bachelor of Fine Art: 2015-2018"), r.createElement("p", null, "KABK Bachelor of Fine Art: 2010-2011 propedeuse"), r.createElement("h2", null, "Upcoming/Current Exhibitions"), r.createElement("h3", null, "March 29th - May 3rd"), r.createElement("p", null, "Don't Know Much About Algae-bra: Photosynthesis, an Unknown Worldwonder - Margot Berkman, Pieter W. Postma en Naomi Mitsuko Makkelie - Provinciehuis Paviljoen Welgelegen, Haarlem"), r.createElement("p", null, "Opening: March 29th, 17.00-19.00"), r.createElement("h3", null, "June 8th - July 7th"), r.createElement("p", null, "De Belofte - Kunstliefde, Utrecht"), r.createElement("p", null, "Opening: June 8th, 20.00"), r.createElement("h3", null, "June 29th - July 27th"), r.createElement("p", null, "Nieuwe Leden Tentoonstelling 2018, Arti et Amicitiae, Amsterdam"), r.createElement("p", null, "Opening: June 28th, 19.00-22.00"), r.createElement("h2", null, "Exhibitions"), r.createElement("h3", null, "2019"), r.createElement("p", null, "Show Off Space - Art Rotterdam, Van Nelle Fabriek, Rotterdam"), r.createElement("h3", null, "2018"), r.createElement("p", null, "De Salon 2018 - Arti et Amicitiae, Amsterdam"), r.createElement("p", null, "Buning Brongers Prize - Arti et Amicitiae, Amsterdam"), r.createElement("p", null, "Royal Award for Modern Painting - Royal Palace Amsterdam"), r.createElement("p", null, "Summerjam, a painting show - W139, Amsterdam "), r.createElement("p", null, "Exposure HKU Beeldende Kunst - Pastoe Fabriek, Utrecht"), r.createElement("h3", null, "2017"), r.createElement("p", null, "Summershow 2017 - Nieuw Dakota & Francis Boeske Projects, Amsterdam"), r.createElement("p", null, "Neighbourhood - Hooghiemstra, Utrecht"), r.createElement("h3", null, "2016"), r.createElement("p", null, "Summershow 2016 - Nieuw Dakota & Francis Boeske Projects, Amsterdam"), r.createElement("h3", null, "2014"), r.createElement("p", null, "Open Ateliers Amsterdam Noord - Augustinuskerk, Amsterdam"), r.createElement("h2", null, "Prizes / Nominations"), r.createElement("h3", null, "2018"), r.createElement("p", null, "Buning Brongers Prize, winner"), r.createElement("p", null, "Royal Award for Modern Painting, nomination"), r.createElement("p", null, "Dooyewaard stipendium, nomination")))
+            return r.createElement(
+                "div",
+                {className: "page-wrapper cv-page"},
+                r.createElement(
+                    "div",
+                    null,
+                    r.createElement(
+                        "h2",
+                        null,
+                        "Naomi Mitsuko Makkelie (1992), Amsterdam"
+                    ),
+                    r.createElement("h2", null, "Education"),
+                    r.createElement(
+                        "p",
+                        null,
+                        "HKU Bachelor of Fine Art: 2015-2018"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "KABK Bachelor of Fine Art: 2010-2011 propedeuse"
+                    ),
+                    r.createElement(
+                        "h2",
+                        null,
+                        "Upcoming/Current Exhibitions"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Ongetemd"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "'Toekomstbeelden van mens en natuur'"
+                    ),   r.createElement(
+                        "p",
+                        null,
+                        "Museum IJsselstein"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Until August 30th 2020"
+                    ),
+                    r.createElement("h2", null, "Exhibitions"),
+                    r.createElement("h3", null, "2019"), r.createElement(
+                        "p",
+                        null,
+                        "Nieuwe Leden Tentoonstelling 2018, Arti et Amicitiae, Amsterdam"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "De Belofte - Kunstliefde, Utrecht"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Don't Know Much About Algae-bra: Photosynthesis, an Unknown Worldwonder - Margot Berkman, Pieter W. Postma en Naomi Mitsuko Makkelie - Provinciehuis Paviljoen Welgelegen, Haarlem"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Show Off Space - Art Rotterdam, Van Nelle Fabriek, Rotterdam"
+                    ),
+                    r.createElement("h3", null, "2018"),
+                    r.createElement(
+                        "p",
+                        null,
+                        "De Salon 2018 - Arti et Amicitiae, Amsterdam"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Buning Brongers Prize - Arti et Amicitiae, Amsterdam"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Royal Award for Modern Painting - Royal Palace Amsterdam"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Summerjam, a painting show - W139, Amsterdam "
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Exposure HKU Beeldende Kunst - Pastoe Fabriek, Utrecht"
+                    ),
+                    r.createElement("h3", null, "2017"),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Summershow 2017 - Nieuw Dakota & Francis Boeske Projects, Amsterdam"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Neighbourhood - Hooghiemstra, Utrecht"
+                    ),
+                    r.createElement("h3", null, "2016"),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Summershow 2016 - Nieuw Dakota & Francis Boeske Projects, Amsterdam"
+                    ),
+                    r.createElement("h3", null, "2014"),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Open Ateliers Amsterdam Noord - Augustinuskerk, Amsterdam"
+                    ),
+                    r.createElement("h2", null, "Prizes / Nominations"),
+                    r.createElement("h3", null, "2018"),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Buning Brongers Prize, winner"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Royal Award for Modern Painting, nomination"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "Dooyewaard stipendium, nomination"
+                    )
+                )
+            )
         }
     },
     function (e, t, n) {
