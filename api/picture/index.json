@@ -1,5 +1,65 @@
 [
     {
+        "id": "yellow-fever-prescripted-love-letters",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "185170d6d20b49b138d4617aaa56176d",
+        "uploadDate": 1591652409501,
+        "length": 993599,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Yellow fever (prescripted love letters), 170 x 140 cm, Acrylic on canvas, 2020",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "seaweed-p5",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "a5b34ce882159e3ea9d9211a2705198b",
+        "uploadDate": 1591652409644,
+        "length": 856503,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Seaweed p.5, 115 x 100 cm, Acrylic on canvas, 2019",
+            "ordinal": 1,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "gelimi",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "c9a0632f3ddaa7851a5f5308269cc931",
+        "uploadDate": 1591652409695,
+        "length": 209896,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Gelimi, 200 x 60 cm, Acrylic on canvas, 2019",
+            "ordinal": 2,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "arti-overview",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "86bd333536499b6dfbd57400a6a0b866",
+        "uploadDate": 1591652409719,
+        "length": 106294,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Overview Arti et Amicitiae",
+            "ordinal": 3,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
         "id": "5a6dcb1985e8c6196571f03d",
         "filename": "files",
         "contentType": "image/png",
@@ -9,7 +69,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Camouflage, 120 x 90 cm, Acrylic on canvas, 2016",
-            "ordinal": 44,
+            "ordinal": 48,
             "visible": false,
             "deleted": null
         }
@@ -24,7 +84,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Lost in, 170 x 140 cm, Acrylic on canvas, 2017",
-            "ordinal": 43,
+            "ordinal": 47,
             "visible": false,
             "deleted": null
         }
@@ -39,7 +99,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "",
-            "ordinal": 41,
+            "ordinal": 45,
             "visible": false,
             "deleted": null
         }
@@ -54,7 +114,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Seaweed, 100 x 80 cm, Acrylic on canvas, 2016",
-            "ordinal": 45,
+            "ordinal": 49,
             "visible": true,
             "deleted": null
         }
@@ -69,7 +129,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Neighbourhood, Hooghiemstra, 2017",
-            "ordinal": 45,
+            "ordinal": 49,
             "visible": true,
             "deleted": null
         }
@@ -84,7 +144,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Overview May 2017",
-            "ordinal": 26,
+            "ordinal": 30,
             "visible": true,
             "deleted": null
         }
@@ -99,7 +159,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Fuck the cloud, 180 x 140 cm, Acrylic on canvas, 2017",
-            "ordinal": 15,
+            "ordinal": 19,
             "visible": true,
             "deleted": null
         }
@@ -114,7 +174,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "",
-            "ordinal": 38,
+            "ordinal": 42,
             "visible": false,
             "deleted": null
         }
@@ -129,7 +189,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Overview December 2016",
-            "ordinal": 45,
+            "ordinal": 49,
             "visible": true,
             "deleted": null
         }
@@ -144,7 +204,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Losing lives by Venus's trap, 100 x 80 cm, Acrylic on canvas, 2017",
-            "ordinal": 32,
+            "ordinal": 36,
             "visible": false,
             "deleted": null
         }
@@ -159,7 +219,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Daruma remains p.2, 90 x 70 cm, Acrylic on canvas, 2017",
-            "ordinal": 45,
+            "ordinal": 49,
             "visible": true,
             "deleted": null
         }
@@ -174,7 +234,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Daruma remains: swimming pool sensations, 200 x 160 cm, Acrylic on canvas, 2017",
-            "ordinal": 31,
+            "ordinal": 35,
             "visible": true,
             "deleted": null
         }
@@ -189,7 +249,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Daruma remains, 50 x 40 cm, Acrylic and oil on canvas, 2017",
-            "ordinal": 20,
+            "ordinal": 24,
             "visible": true,
             "deleted": null
         }
@@ -204,7 +264,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "The city is cold, 145 x 120 cm, Acrylic on canvas, 2017",
-            "ordinal": 39,
+            "ordinal": 43,
             "visible": true,
             "deleted": null
         }
@@ -219,7 +279,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Temple, 100 x 80 cm, Acrylic on canvas, 2016",
-            "ordinal": 45,
+            "ordinal": 49,
             "visible": true,
             "deleted": null
         }
@@ -234,7 +294,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Constructed landscape, 120 x 90 cm, Acrylic on canvas, 2016",
-            "ordinal": 45,
+            "ordinal": 49,
             "visible": true,
             "deleted": null
         }
@@ -249,7 +309,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Gelimi, 200 x 160 cm, Acrylic on canvas, 2017",
-            "ordinal": 25,
+            "ordinal": 29,
             "visible": false,
             "deleted": null
         }
@@ -264,7 +324,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Seaweed p.3, 100 x 80 cm, Acrylic on canvas, 2016",
-            "ordinal": 45,
+            "ordinal": 49,
             "visible": true,
             "deleted": null
         }
@@ -279,7 +339,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Himalaya, 50 x 30 cm, Oil on canvas, 2018",
-            "ordinal": 30,
+            "ordinal": 34,
             "visible": false,
             "deleted": null
         }
@@ -294,7 +354,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Swimming pool translations, 45 x 35 cm, Oil on canvas, 2018",
-            "ordinal": 23,
+            "ordinal": 27,
             "visible": true,
             "deleted": null
         }
@@ -309,7 +369,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Seaweed p.4, 190 x 150 cm, Acrylic on canvas, 2018\n",
-            "ordinal": 28,
+            "ordinal": 32,
             "visible": false,
             "deleted": null
         }
@@ -324,7 +384,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Seaweed p.4, Acrylic on canvas, 200 x 150 cm, 2018\n",
-            "ordinal": 15,
+            "ordinal": 19,
             "visible": true,
             "deleted": null
         }
@@ -339,7 +399,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Tears of joy, 180 x 140 cm, Oil on canvas, 2018\n",
-            "ordinal": 20,
+            "ordinal": 24,
             "visible": true,
             "deleted": null
         }
@@ -354,7 +414,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Overview Exposure HKU Beeldende Kunst 2018",
-            "ordinal": 10,
+            "ordinal": 14,
             "visible": true,
             "deleted": null
         }
@@ -369,7 +429,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Overview Exposure HKU Beeldende Kunst 2018",
-            "ordinal": 14,
+            "ordinal": 18,
             "visible": false,
             "deleted": null
         }
@@ -384,7 +444,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Big city dreams, 250 cm x 180 cm, Oil and Acrylic on canvas, 2018",
-            "ordinal": 26,
+            "ordinal": 30,
             "visible": false,
             "deleted": null
         }
@@ -399,7 +459,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Overview Exposure HKU Beeldende Kunst 2018",
-            "ordinal": 11,
+            "ordinal": 15,
             "visible": true,
             "deleted": null
         }
@@ -414,7 +474,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Seaweed p.4, 200 x 150 cm, Acrylic on canvas, 2018",
-            "ordinal": 17,
+            "ordinal": 21,
             "visible": false,
             "deleted": null
         }
@@ -429,7 +489,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Tears of joy, 180 x 140 cm, Oil on canvas, 2018",
-            "ordinal": 25,
+            "ordinal": 29,
             "visible": false,
             "deleted": null
         }
@@ -444,7 +504,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Green Mamba, 190 x 145 cm, Acrylic on canvas, 2018",
-            "ordinal": 20,
+            "ordinal": 24,
             "visible": false,
             "deleted": null
         }
@@ -459,7 +519,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Overview Exposure HKU Beeldende Kunst 2018",
-            "ordinal": 13,
+            "ordinal": 17,
             "visible": false,
             "deleted": null
         }
@@ -474,7 +534,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Green Mamba, 190 x 145 cm, Acrylic on canvas, 2018",
-            "ordinal": 16,
+            "ordinal": 20,
             "visible": true,
             "deleted": null
         }
@@ -489,7 +549,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Overview Exposure HKU Beeldende Kunst 2018",
-            "ordinal": 13,
+            "ordinal": 17,
             "visible": false,
             "deleted": null
         }
@@ -504,7 +564,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Big city dreams, 250 cm x 180 cm, Oil and Acrylic on canvas, 2018",
-            "ordinal": 20,
+            "ordinal": 24,
             "visible": true,
             "deleted": null
         }
@@ -519,7 +579,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Royal Award for Modern Painting, Royal Palace of Amsterdam",
-            "ordinal": 9,
+            "ordinal": 13,
             "visible": true,
             "deleted": null
         }
@@ -534,7 +594,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Last page, 145 x 85 cm, Acrylic on canvas, 2018",
-            "ordinal": 9,
+            "ordinal": 13,
             "visible": false,
             "deleted": null
         }
@@ -549,7 +609,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Detail Last page",
-            "ordinal": 7,
+            "ordinal": 11,
             "visible": true,
             "deleted": null
         }
@@ -564,7 +624,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Last page, 145 x 85 cm, Acrylic on canvas, 2018",
-            "ordinal": 8,
+            "ordinal": 12,
             "visible": true,
             "deleted": null
         }
@@ -579,7 +639,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Constructed landscape, 150 x 115 cm, Acrylic on canvas, 2019",
-            "ordinal": 6,
+            "ordinal": 10,
             "visible": false,
             "deleted": null
         }
@@ -594,7 +654,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Airplane mode, 100 x 80 cm, Acrylic on canvas, 2019",
-            "ordinal": 5,
+            "ordinal": 9,
             "visible": false,
             "deleted": null
         }
@@ -609,7 +669,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Seasick, 180 x 150 cm, Acrylic on canvas, 2019",
-            "ordinal": 3,
+            "ordinal": 7,
             "visible": false,
             "deleted": null
         }
@@ -624,7 +684,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "I'll wait forever, 180 x 160 cm, Acrylic on canvas, 2019",
-            "ordinal": 0,
+            "ordinal": 4,
             "visible": false,
             "deleted": null
         }
@@ -639,7 +699,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Seasick, 180 x 150 cm, Acrylic on canvas, 2019",
-            "ordinal": 2,
+            "ordinal": 6,
             "visible": true,
             "deleted": null
         }
@@ -654,7 +714,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "I'll wait forever, 180 x 160 cm, Acrylic on canvas, 2019",
-            "ordinal": 1,
+            "ordinal": 5,
             "visible": true,
             "deleted": null
         }
@@ -669,7 +729,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "Daruma Galaxy, 120 x 90 cm, Acrylic on canvas, 2019",
-            "ordinal": 4,
+            "ordinal": 8,
             "visible": false,
             "deleted": null
         }
@@ -684,7 +744,7 @@
         "chunkSize": 261120,
         "metadata": {
             "text": "    Illiterature (left) and Daruma Galaxy (right) at Arti et Amicitiea ",
-            "ordinal": 45,
+            "ordinal": 49,
             "visible": true,
             "deleted": null
         }
