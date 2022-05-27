@@ -1,5 +1,8 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# nodejs
+node_modules/
+
+# macOS
+.DS_Store
+
+# generated files
+.build/

@@ -1,0 +1,15 @@
+:root {
+    --palette__white: #fff;
+    --palette__black: #000;
+
+    --typography__font-family: 'Roboto', sans-serif;
+    --typography__font-size: 1em;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: var(--typography__font-family);
+    font-size: var(--typography__font-size);
+}

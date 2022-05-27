@@ -1,0 +1,26 @@
+{
+  "name": "naomimakkelie.nl",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "build:watch": "eleventy --watch",
+    "start": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naomimakkelie-nl/naomimakkelie.nl.git"
+  },
+  "keywords": [],
+  "author": "Rik Hoffbauer <git@rikhoffbauer.com> (https://github.com/rikhoffbauer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naomimakkelie-nl/naomimakkelie.nl/issues"
+  },
+  "homepage": "https://github.com/naomimakkelie-nl/naomimakkelie.nl#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
