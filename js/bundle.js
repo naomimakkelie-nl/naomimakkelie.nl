@@ -14352,38 +14352,34 @@
                     r.createElement(
                         "p",
                         null,
-                        "HKU Bachelor of Fine Art: 2015-2018"
+                        "Frank Mohr Institute, Master of Fine Arts: 2018-2019"
                     ),
                     r.createElement(
                         "p",
                         null,
-                        "KABK Bachelor of Fine Art: 2010-2011 propedeuse"
-                    ),
-                    r.createElement(
-                        "h2",
-                        null,
-                        "Upcoming/Current Exhibitions"
+                        "HKU, Bachelor of Fine Art: 2015-2018"
                     ),
                     r.createElement(
                         "p",
                         null,
-                        "Ongetemd"
-                    ),
-                    r.createElement(
-                        "p",
-                        null,
-                        "'Toekomstbeelden van mens en natuur'"
-                    ),   r.createElement(
-                        "p",
-                        null,
-                        "Museum IJsselstein"
-                    ),
-                    r.createElement(
-                        "p",
-                        null,
-                        "Until August 30th 2020"
+                        "KABK, Bachelor of Fine Art: 2010-2011 propedeuse"
                     ),
                     r.createElement("h2", null, "Exhibitions"),
+                    r.createElement("h3", null, "2022"), r.createElement(
+                        "p",
+                        null,
+                        "‘YOUth ACT ART SHOW - UNTOLD STORIES’ Sexyland, Amsterdam"
+                    ),
+                    r.createElement(
+                        "p",
+                        null,
+                        "‘Painting is present’ a Group show with Jonat Deelstra, Matthijs Jeuring and Shimon Kamada, Arwe Gallery, Gouda"
+                    ),
+                    r.createElement("h3", null, "2020"), r.createElement(
+                        "p",
+                        null,
+                        "Ongetemd 'Toekomstbeelden van mens en natuur', Museum IJsselstein, IJsselstein"
+                    ),
                     r.createElement("h3", null, "2019"), r.createElement(
                         "p",
                         null,
