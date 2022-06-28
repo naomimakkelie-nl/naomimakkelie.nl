@@ -1,0 +1,34 @@
+{
+  "name": "naomimakkelie.nl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "concurrently 'npm run uglify:watch' 'livereload -f js/bundle.min.js,index.html,api/picture/index.json' 'serve -p 4000'",
+    "uglify": "uglifyjs  js/bundle.js -o js/bundle.min.js",
+    "uglify:watch": "npm run uglify && onchange js/bundle.js index.html api/picture/* css/* fonts/* -- npm run uglify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "linters": {
+      "js/bundle.js": "npm run uglify && git add js/bundle.min.js"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.2.2",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "livereload": "^0.9.3",
+    "onchange": "^7.1.0",
+    "serve": "^13.0.2",
+    "uglify-js": "^3.16.1"
+  }
+}
