@@ -14349,6 +14349,7 @@
                         "Naomi Mitsuko Makkelie (1992), Amsterdam"
                     ),
                     r.createElement("h2", null, "Education"),
+                    /* EDUCATION START */
                     r.createElement(
                         "p",
                         null,
@@ -14365,6 +14366,7 @@
                         "KABK, Bachelor of Fine Art: 2010-2011 propedeuse"
                     ),
                     r.createElement("h2", null, "Exhibitions"),
+                    /* EXHIBITIONS START */
                     r.createElement("h3", null, "2022"), r.createElement(
                         "p",
                         null,
