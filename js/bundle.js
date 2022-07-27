@@ -7963,6 +7963,7 @@
             {
                 CONTACT: "/contact",
                 ABOUT: "/about",
+                ARTIST_STATEMENT_2020_2022: "/artist-statement-2020-2022",
                 CV: "/cv",
                 GALLERY: "/gallery",
                 GALLERY_EDIT: "/gallery/edit"
@@ -13968,6 +13969,9 @@
                     to: c.ROUTES.GALLERY
                 }, i.createElement("span", null, "Work"))), i.createElement("li", null, i.createElement(a.NavLink, {
                     activeStyle: { fontWeight: "bold" },
+                    to: c.ROUTES.ARTIST_STATEMENT_2020_2022
+                }, "Artist Statement 2020-2022")),i.createElement("li", null, i.createElement(a.NavLink, {
+                    activeStyle: { fontWeight: "bold" },
                     to: c.ROUTES.ABOUT
                 }, "About")), i.createElement("li", null, i.createElement(a.NavLink, {
                     activeStyle: { fontWeight: "bold" },
@@ -15516,6 +15520,7 @@
             g = n(307),
             A = n(310),
             b = n(110),
+            artistStatement = n(801),
             y = function (e) {
                 function t() {
                     return null !== e && e.apply(this, arguments) || this
@@ -15527,6 +15532,9 @@
                     l.render(a.createElement(c.Router, { history: b.default }, a.createElement(d.App, null, a.createElement(c.Switch, null, a.createElement(c.Route, {
                         path: "/contact",
                         component: f.ContactPage
+                    }), a.createElement(c.Route, {
+                        path: "/artist-statement-2020-2022",
+                        component: artistStatement.ArtistStatementPage
                     }), a.createElement(c.Route, {
                         path: "/about",
                         component: p.AboutPage
@@ -45005,5 +45013,15 @@
                     e, t.propTypes = { wrappedComponentRef: u.default.func }, (0, p.default)(t, e)
             };
         t.default = m
+    },
+    function (e, t, n) {
+        "use strict";
+        Object.defineProperty(t, "__esModule", { value: !0 });
+        var r = n(2);
+        n(767), t.ArtistStatementPage = function () {
+            return r.createElement("div", { className: "page-wrapper about-page", style: {justifyContent: "unset"} }, r.createElement("div", {style: {padding: "1em 0"}}, "The interpretation of culture and how the future and past affect each other on a historical, cultural and scientific level.", r.createElement("br", null), r.createElement("br", null), "Events can only be seen as ‘good’ or ‘bad’ when they’re seen in the context of a point in time. An event can be seen as good at one point in time, and as bad at another point in time. In my paintings the ideas of good or bad don’t exist, while it’s impossible to judge whether an event is good or bad in the present.", r.createElement("br", null), "A good example is the current situation of Covid, which is an important chapter in the history of mankind. As far as I'm concerned, there is little attention paid to this subject in contemporary art. It seems as if", r.createElement("br", null), "the contemporary art world often gets stuck in social topics that are no longer relevant and that are lagging behind current events and social", r.createElement("br", null), "topics. I think that this is a very bad development, because in my opinion art should innovate instead of following trends.", r.createElement("br", null),
+                r.createElement("br", null), "What I think is important is that, in addition to the knowledge we have through the media, art can create a different and personal view of what it is like to live in this time, such as 'The diary of Anne Frank' about the Second World War, instead of only media reports, figures and graphs. What I notice about the interpretation of history is that it is mostly based on the time we live in and even then it is hard to make conclusions, because a lot is still unknown or kept secret. But afterwards it is easier to look at a situation objectively with more knowledge and with as little 'manipulation' from others such as the media and propaganda.", r.createElement("br", null), r.createElement("br", null), "What I have noticed in recent years is that I notice a greater effect in my close environment is the effect it has on the mental state of people than covid had/has on their physical state. Loneliness, despair, boredom, big changes in peoples financial state because of most 'young' peoplelosing their jobs, excessive drinking / drug (ab)use, suicide attempts and", r.createElement("br", null), "relationships that are destroyed by the effects of Covid.", r.createElement("br", null), "I grew up seeing art that engages people, or that just gives an insight/creates a picture of what it is like to live in this time. I think this is a big part of creating an ideal history and the interpretation of history. ", r.createElement("br", null), "That people in the future can imagine how it is to live in this era and have different views of personal experiences to create an overall bigger picture than only based on media, articles and graphs.", r.createElement("br", null), r.createElement("br", null), r.createElement("br", null), "What fascinates me about history is how much of it is unsubstantiated, sometimes based on fantasy and fairy tales. This makes me wonder in what way art may contribute to the pollution of information in history.", r.createElement("br", null), r.createElement("br", null), "Unfortunately, as someone with an Asian background, I notice another negative effect of Covid which is more racism towards Asian people. In the art world racism is still mostly about discrimination towards black people and about 'black lives matter', discrimination towards women and towards the LGBTQ community. ", r.createElement("br", null), "Racism is a bad thing and should definitely be discussed, but it strikes me that a lot of people don't understand that", r.createElement("br", null), "racism can apply to all races and genders.", r.createElement("br", null), r.createElement("br", null), "My work is largely inspired by Ukiyo-E, which is a type of wood print art which  started in Japan around 1600/1700. This was about the same time as realism and 'Rembrandt' in the ‘Western world’. The art that was made during this time has contributed a lot to history by visually giving a", r.createElement("br", null), "good picture of what that time looked like because they then used paintings as we used photos, because this technique did not yet exist.", r.createElement("br", null), "Western art history started from that point and, due to the invention of photography, it was no longer necessary to paint realistically, and other movements have arisen such as impressionism and modernism. In Japan this went very differently. Ukiyo-E has been working the opposite way, it has been partly inspired by the more realistic way of painting from the west, but those were the artists who lived around 1800, while Ukiyo-e started around 1600. And started with a completely different approach which was often not based on reality with samples, and bizarre Pictures. A lot of", r.createElement("br", null), "Western artists during impressionism were inspired by Ukiyo-e, such as some famous paintings by Vincent Van Gogh.", r.createElement("br", null),
+                "Because I am often seen as an Asian artist by my appearance and name, I like to play with the way the ‘viewer’ interprets my work because with my name and appearance it is mostly seen as ‘Japanese’ art while I have never lived in Japan. So this will never be a neutral interpretation, which is", r.createElement("br", null), "not a good or a bad thing, but it’s interesting to investigate how you can also manipulate the viewer this way and sometimes even confront them with their ‘sometimes’ blurred vision influenced by society."))
+        }
     }
 ]));
