@@ -1,0 +1,18 @@
+.artist-statement-page > div {
+    text-align: justify;
+    padding: 1em 1em;
+    margin: auto;
+}
+
+@media (min-width: 740px) {
+    .artist-statement-page > div {
+        padding: 1rem 3rem !important;
+        display: block !important;
+        columns: 2;
+        max-width: 1024px !important;
+        column-gap: 3rem;
+        column-rule: 1px solid rgb(130 130 130);
+        column-fill: balance;
+        column-rule-width: thin;
+    }
+}
