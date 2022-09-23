@@ -149,6 +149,128 @@
         }
     },
     {
+        "id": "memoirs-of-a-geisha",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Memoirs of a geisha, 70 cm x 50, ink, watercolor paint, pastel chalk on paper, 2022",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "memoirs-of-a-geisha-detail-1",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail 'Memoirs of a geisha'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "memoirs-of-a-geisha-detail-2",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail 'Memoirs of a geisha'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "memoirs-of-a-geisha-detail-3",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail 'Memoirs of a geisha'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+
+    {
+        "id": "shark-covid-japan",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。\nこれは、人間にも感染する可能性があります。\n日本は現在、これを防ぐためにできる限りのことを行っており、\nすでにその地域のすべてのサメを殺しています’\n\n(Japan has discovered a new disease in sharks, \na mutation of SARS and COVID, which could potentially infect humans as well. \nJapan is now doing everything it can to prevent this, \nand already kill all sharks in the area) \n70 cm x 50, ink, watercolor paint and pastel chalk on paper, 2022",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "shark-covid-japan-detail-1",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "shark-covid-japan-detail-2",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "shark-covid-japan-detail-3",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+
+    {
         "id": "peggy-blue",
         "filename": "files",
         "contentType": "image/jpeg",
@@ -940,21 +1062,6 @@
             "text": "Daruma Galaxy, 120 x 90 cm, Acrylic on canvas, 2019",
             "ordinal": 9,
             "visible": false,
-            "deleted": null
-        }
-    },
-    {
-        "id": "5d8129686114080006b02007",
-        "filename": "files",
-        "contentType": "image/jpeg",
-        "md5": "b5bc5f44e376848b7a6dca6060497a30",
-        "uploadDate": 1568745832783,
-        "length": 770125,
-        "chunkSize": 261120,
-        "metadata": {
-            "text": "    Illiterature (left) and Daruma Galaxy (right) at Arti et Amicitiea ",
-            "ordinal": 50,
-            "visible": true,
             "deleted": null
         }
     }
