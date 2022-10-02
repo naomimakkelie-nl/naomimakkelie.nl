@@ -118,21 +118,22 @@
             "visible": true,
             "deleted": null
         }
-    }, {
-    "id": "first-summer-detail-2",
-    "filename": "files",
-    "contentType": "image/jpeg",
-    "md5": "d2a27d67b0c014f37f81a214a66890a1",
-    "uploadDate": 1656456430000,
-    "length": 475392,
-    "chunkSize": 1,
-    "metadata": {
-        "text": "Detail 'First Summer Of Covid, Amsterdam'",
-        "ordinal": 0,
-        "visible": true,
-        "deleted": null
-    }
-},
+    },
+    {
+        "id": "first-summer-detail-2",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656456430000,
+        "length": 475392,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail 'First Summer Of Covid, Amsterdam'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
     {
         "id": "first-summer-detail-3",
         "filename": "files",
@@ -208,7 +209,6 @@
             "deleted": null
         }
     },
-
     {
         "id": "shark-covid-japan",
         "filename": "files",
@@ -269,7 +269,6 @@
             "deleted": null
         }
     },
-
     {
         "id": "peggy-blue",
         "filename": "files",
