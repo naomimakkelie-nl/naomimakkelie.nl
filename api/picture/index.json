@@ -340,7 +340,7 @@
         "metadata": {
             "text": "Yellow fever (prescripted love letters), 170 x 140 cm, Acrylic on canvas, 2020",
             "ordinal": 1,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
@@ -520,7 +520,7 @@
         "metadata": {
             "text": "Overview December 2016",
             "ordinal": 50,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
@@ -565,7 +565,7 @@
         "metadata": {
             "text": "Daruma remains: swimming pool sensations, 200 x 160 cm, Acrylic on canvas, 2017",
             "ordinal": 36,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
@@ -655,7 +655,7 @@
         "metadata": {
             "text": "Seaweed p.3, 100 x 80 cm, Acrylic on canvas, 2016",
             "ordinal": 50,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
