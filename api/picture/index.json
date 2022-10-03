@@ -175,7 +175,7 @@
         "metadata": {
             "text": "Detail 'Memoirs of a geisha'",
             "ordinal": 0,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
@@ -190,7 +190,7 @@
         "metadata": {
             "text": "Detail 'Memoirs of a geisha'",
             "ordinal": 0,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
