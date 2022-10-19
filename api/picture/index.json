@@ -1,50 +1,5 @@
 [
     {
-        "id": "seasick-p2",
-        "filename": "files",
-        "contentType": "image/webp",
-        "md5": "d2a27d67b0c014f37f81a214a66890a1",
-        "uploadDate": 1656451276000,
-        "length": 520258,
-        "chunkSize": 1,
-        "metadata": {
-            "text": "Seasick p.2, 50 x 70 cm (without frame), watercolour, ink and pastelchark on paper, 2022",
-            "ordinal": 0,
-            "visible": true,
-            "deleted": null
-        }
-    },
-    {
-        "id": "seasick-p2-detail-1",
-        "filename": "files",
-        "contentType": "image/jpeg",
-        "md5": "d2a27d67b0c014f37f81a214a66890a1",
-        "uploadDate": 1656451276000,
-        "length": 520258,
-        "chunkSize": 1,
-        "metadata": {
-            "text": "Detail 'Seasick p.2' \n私は祖母のミツコにちなんで名付けられました。\n彼女は書道家でした。\n体の右側が病気で麻痺していたので、左側から書道の練習を始めました。\n私は日本語を話せませんし、残念ながら家族のほとんどとコミュニケーションが取れません。\n私は彼女の忍耐力に感銘を受け、いつの日か私が自分自身に日本語を教えるのに十分な忍耐力を持ってくれることを願っています。\n幸い、画像を翻訳する必要はなく、これまでのところこれで十分です。\n- I am named after my grandmother, Mitsuko. She was a calligrapher.\nShe was sick and became paralyzed on the right side of her body, so she started to practice calligraphy with her left hand.\nI don't speak Japanese myself and unfortunately I can't communicate with most of my family.\nI am impressed by her patience and hope that one day I will have enough patience to teach myself Japanese.\nFortunately, an image does not need to be translated and so far this is sufficient.",
-            "ordinal": 0,
-            "visible": true,
-            "deleted": null
-        }
-    },
-    {
-        "id": "seasick-p2-detail-2",
-        "filename": "files",
-        "contentType": "image/jpeg",
-        "md5": "d2a27d67b0c014f37f81a214a66890a1",
-        "uploadDate": 1656451276000,
-        "length": 520258,
-        "chunkSize": 1,
-        "metadata": {
-            "text": "Detail 'Seasick p.2'",
-            "ordinal": 0,
-            "visible": true,
-            "deleted": null
-        }
-    },
-    {
         "id": "battlefield-on-valentines-day",
         "filename": "files",
         "contentType": "image/webp",
@@ -90,6 +45,187 @@
         }
     },
     {
+        "id": "20221014-2",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail 'Battlefield on Valentine’s Day'\n\n‘私が最も驚いたのは、COVID が人間関係に与えた悪影響です。\n特にロックダウン中は、これが通常、分裂の流行を引き起こすことに気づきました.\n残念ながら、これは最初で最後のロックダウンでも起こりました。\n検疫/ロックダウン中、\nほとんどのカップルはこれまで以上に多くの時間を一緒に過ごすことを余儀なくされています。\nそれが人々の精神状態に与えた影響は、\nCovidが私の年齢の人々の身体状態に与えた影響よりも大きかった.\nこのような状況でよく見られる絶望感、退屈感、憂鬱感は、\n生き残るために人間関係から多くのことを奪います。\n私を魅了するのは、パートナーと過ごす時間が増えると、通常、\n関係にマイナスの影響があるということです.\nこれは、心理学的、哲学的、生物学的に興味深いトピックです。’\n\nWhat struck me most is the negative effect that COVID had on relationships.\nEspecially during lockdowns I’ve noticed that this usually triggers an epidemic of break-ups.\nUnfortunately, this also happened to me the first and the last lockdown.\nDuring quarantine/lockdown, most couples are forced to spend more time together than ever before.\nThe impact it had on people's mental states was bigger than the impact Covid had on the physical states of people my age.\nThe feelings of hopelessness, boredom and depression that are common in such situations take a lot out of relationships to survive.\nWhat fascinates me is that spending more time with a partner usually has a negative effect on the relationship.\nThis is an interesting topic in psychological, philosophical and biological ways.",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "20221014-3",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Overview",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "20221014-5",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Overview",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+
+    {
+        "id": "20221014-8",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Overview",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "seasick-p2",
+        "filename": "files",
+        "contentType": "image/webp",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Seasick p.2, 50 x 70 cm (without frame), watercolour, ink and pastelchark on paper, 2022",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "seasick-p2-detail-1",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail 'Seasick p.2' \n私は祖母のミツコにちなんで名付けられました。\n彼女は書道家でした。\n体の右側が病気で麻痺していたので、左側から書道の練習を始めました。\n私は日本語を話せませんし、残念ながら家族のほとんどとコミュニケーションが取れません。\n私は彼女の忍耐力に感銘を受け、いつの日か私が自分自身に日本語を教えるのに十分な忍耐力を持ってくれることを願っています。\n幸い、画像を翻訳する必要はなく、これまでのところこれで十分です。\n- I am named after my grandmother, Mitsuko. She was a calligrapher.\nShe was sick and became paralyzed on the right side of her body, so she started to practice calligraphy with her left hand.\nI don't speak Japanese myself and unfortunately I can't communicate with most of my family.\nI am impressed by her patience and hope that one day I will have enough patience to teach myself Japanese.\nFortunately, an image does not need to be translated and so far this is sufficient.",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "seasick-p2-detail-2",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail 'Seasick p.2'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "20221014-4",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Overview",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    } ,
+    {
+        "id": "shark-covid-japan",
+        "filename": "files",
+        "contentType": "image/webp",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。\nこれは、人間にも感染する可能性があります。\n日本は現在、これを防ぐためにできる限りのことを行っており、\nすでにその地域のすべてのサメを殺しています’\n\n(Japan has discovered a new disease in sharks, \na mutation of SARS and COVID, which could potentially infect humans as well. \nJapan is now doing everything it can to prevent this, \nand already kill all sharks in the area) \n70 cm x 50, ink, watercolor paint and pastel chalk on paper, 2022",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "shark-covid-japan-detail-2",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "shark-covid-japan-detail-1",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "shark-covid-japan-detail-3",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
+            "ordinal": 0,
+            "visible": false,
+            "deleted": null
+        }
+    },
+    {
         "id": "first-summer-of-covid-amsterdam",
         "filename": "files",
         "contentType": "image/webp",
@@ -115,7 +251,7 @@
         "metadata": {
             "text": "Detail 'First Summer Of Covid, Amsterdam'",
             "ordinal": 0,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
@@ -130,7 +266,7 @@
         "metadata": {
             "text": "Detail 'First Summer Of Covid, Amsterdam'",
             "ordinal": 0,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
@@ -210,66 +346,6 @@
         }
     },
     {
-        "id": "shark-covid-japan",
-        "filename": "files",
-        "contentType": "image/webp",
-        "md5": "d2a27d67b0c014f37f81a214a66890a1",
-        "uploadDate": 1656451276000,
-        "length": 520258,
-        "chunkSize": 1,
-        "metadata": {
-            "text": "‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。\nこれは、人間にも感染する可能性があります。\n日本は現在、これを防ぐためにできる限りのことを行っており、\nすでにその地域のすべてのサメを殺しています’\n\n(Japan has discovered a new disease in sharks, \na mutation of SARS and COVID, which could potentially infect humans as well. \nJapan is now doing everything it can to prevent this, \nand already kill all sharks in the area) \n70 cm x 50, ink, watercolor paint and pastel chalk on paper, 2022",
-            "ordinal": 0,
-            "visible": true,
-            "deleted": null
-        }
-    },
-    {
-        "id": "shark-covid-japan-detail-1",
-        "filename": "files",
-        "contentType": "image/jpeg",
-        "md5": "d2a27d67b0c014f37f81a214a66890a1",
-        "uploadDate": 1656451276000,
-        "length": 520258,
-        "chunkSize": 1,
-        "metadata": {
-            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
-            "ordinal": 0,
-            "visible": true,
-            "deleted": null
-        }
-    },
-    {
-        "id": "shark-covid-japan-detail-2",
-        "filename": "files",
-        "contentType": "image/jpeg",
-        "md5": "d2a27d67b0c014f37f81a214a66890a1",
-        "uploadDate": 1656451276000,
-        "length": 520258,
-        "chunkSize": 1,
-        "metadata": {
-            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
-            "ordinal": 0,
-            "visible": true,
-            "deleted": null
-        }
-    },
-    {
-        "id": "shark-covid-japan-detail-3",
-        "filename": "files",
-        "contentType": "image/jpeg",
-        "md5": "d2a27d67b0c014f37f81a214a66890a1",
-        "uploadDate": 1656451276000,
-        "length": 520258,
-        "chunkSize": 1,
-        "metadata": {
-            "text": "Detail '‘日本は、サメの新しい病気、SARS と COVID の突然変異を発見しました。...'",
-            "ordinal": 0,
-            "visible": true,
-            "deleted": null
-        }
-    },
-    {
         "id": "peggy-blue",
         "filename": "files",
         "contentType": "image/webp",
@@ -330,6 +406,51 @@
         }
     },
     {
+        "id": "20221014-1",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "Orange Fever, 50 x 40 cm (without frame), collage\n\nOde aan Dennis de Wit en z’n gabber Herman (2021)\n\nThe past year I became friends with my neighbour Dennis. \nDennis lost his job since Corona as a cook at FEBO and is enjoying most of his time at his selfmade terrace in front of his house. \nI was enjoying my corona boredom too and we started hanging out. \nI’m not used to people ringing my doorbell randomly (Probably due to Dutch social standards), but Dennis showed me that it’s quite nice sometimes to not plan anything.\n\nDennis is probably one of the biggest Ajax fans in Amsterdam, his whole house is filled with Ajax merchandise.\n\nI’ve had a bit of a preconception about ‘hooligans’, although one of my dutch family members is a famous soccer referee.\nDennis showed me to not ‘judge a book by it’s cover’, or just to not judge someone by the way they look anyway. \nHe turned out to be one of the sweetest, most loyal and openminded people i’ve ever met.\n\nThat’s why I was inspired to make a work dedicated to Dennis and his cat Herman. \nIt was also interesting to focus with my art more on my dutch heritage. \nIn my work i’m mostly focussed on the Japanese part of my roots, while I actually grew up in the Netherlands. \nWhich I realised is kinda weird because my work is about the interpretation of culture, and not only about Japanese culture. \nPeople mostly see me as a Japanese artist and I like to play with that blurred vision in how people interpret my work. \nI also don’t really connect with most of my dutch family, always felt a bit of an outcast. \nAlthough I have that even more with my Japanese family.\n\nWhat I find interesting about the ’soccer/hooligan/ajaxied’ ‘culture’ is the nationalism, which is very strong among most of them. \nI don’t see that very often in dutch people, or maybe that’s because I grew up in Amsterdam.",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "20221014-6",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "20221014-6",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
+        "id": "20221014-7",
+        "filename": "files",
+        "contentType": "image/jpeg",
+        "md5": "d2a27d67b0c014f37f81a214a66890a1",
+        "uploadDate": 1656451276000,
+        "length": 520258,
+        "chunkSize": 1,
+        "metadata": {
+            "text": "20221014-7",
+            "ordinal": 0,
+            "visible": true,
+            "deleted": null
+        }
+    },
+    {
         "id": "yellow-fever-prescripted-love-letters",
         "filename": "files",
         "contentType": "image/jpeg",
@@ -370,7 +491,7 @@
         "metadata": {
             "text": "Gelimi, 200 x 60 cm, Acrylic on canvas, 2019",
             "ordinal": 3,
-            "visible": true,
+            "visible": false,
             "deleted": null
         }
     },
