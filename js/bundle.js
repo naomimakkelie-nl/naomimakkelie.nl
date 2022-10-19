@@ -7963,6 +7963,7 @@
             {
                 CONTACT: "/contact",
                 ABOUT: "/about",
+                PUBLICATIONS: "/publications",
                 ARTIST_STATEMENT_2020_2022: "/artist-statement-2020-2022",
                 CV: "/cv",
                 GALLERY: "/gallery",
@@ -13970,7 +13971,10 @@
                 }, i.createElement("span", null, "Work"))), i.createElement("li", null, i.createElement(a.NavLink, {
                     activeStyle: { fontWeight: "bold" },
                     to: c.ROUTES.ARTIST_STATEMENT_2020_2022
-                }, "Artist Statement 2020-2022")),i.createElement("li", null, i.createElement(a.NavLink, {
+                }, "Artist Statement 2020-2022")),/*i.createElement("li", null, i.createElement(a.NavLink, {
+                    activeStyle: { fontWeight: "bold" },
+                    to: c.ROUTES.PUBLICATIONS
+                }, "Publications")),*/i.createElement("li", null, i.createElement(a.NavLink, {
                     activeStyle: { fontWeight: "bold" },
                     to: c.ROUTES.ABOUT
                 }, "About")), i.createElement("li", null, i.createElement(a.NavLink, {
@@ -15144,12 +15148,12 @@
                             e.setState({ pictureOrientation: n })
                         }
                     }
-                })), this.state.pictureOrientation ? a.createElement("textarea", {
+                })), this.state.pictureOrientation ? a.createElement("pre", {
                     cols: this.stringUtil.getColumnCount(this.props.picture.metadata.text),
                     rows: this.stringUtil.getLineCount(this.props.picture.metadata.text) + 2,
                     value: this.props.picture.metadata.text,
                     disabled: !0
-                }) : null)
+                }, this.props.picture.metadata.text) : null)
             }, o([
                 l.Autowired,
                 i("design:type", c.PictureActionCreators)
@@ -15521,6 +15525,7 @@
             A = n(310),
             b = n(110),
             artistStatement = n(801),
+            publications = n(802),
             y = function (e) {
                 function t() {
                     return null !== e && e.apply(this, arguments) || this
@@ -15535,6 +15540,9 @@
                     }), a.createElement(c.Route, {
                         path: "/artist-statement-2020-2022",
                         component: artistStatement.ArtistStatementPage
+                    }), a.createElement(c.Route, {
+                        path: "/publications",
+                        component: publications.PublicationsPage
                     }), a.createElement(c.Route, {
                         path: "/about",
                         component: p.AboutPage
@@ -20923,7 +20931,7 @@
     function (e, t, n) {
         t = e.exports = n(21)(), t.push([
             e.id,
-            ".gallery-item-description textarea{float:left;background:transparent;outline:none;border:1px solid transparent;resize:none}.gallery-item-description textarea.focus{border:1px solid #bbb;resize:both}.gallery-item-description .gallery-item-description-actions button{position:absolute}.gallery-item-description .gallery-item-description-actions button.cancel{margin-left:32px}",
+            ".gallery-item-description pre{float:left;background:transparent;outline:none;border:1px solid transparent;resize:none}.gallery-item-description pre.focus{border:1px solid #bbb;resize:both}.gallery-item-description .gallery-item-description-actions button{position:absolute}.gallery-item-description .gallery-item-description-actions button.cancel{margin-left:32px}",
             "",
             {
                 version: 3,
@@ -20931,7 +20939,7 @@
                 names: [],
                 mappings: "AAEA,mCAGQ,WACA,uBACA,aACA,6BACA,WAAa,CAPrB,yCAUY,sBACA,WAAa,CAXzB,mEAiBY,iBAAmB,CAjB/B,0EAoBgB,gBAAkB,CACrB",
                 file: "GalleryItemDescription.scss",
-                sourcesContent: ['@import "../variables";\n\n.gallery-item-description {\n\n    textarea {\n        float: left;\n        background: transparent;\n        outline: none;\n        border: 1px solid transparent;\n        resize: none;\n\n        &.focus {\n            border: 1px solid #bbb;\n            resize: both;\n        }\n    }\n\n    .gallery-item-description-actions {\n        button {\n            position: absolute;\n\n            &.cancel {\n                margin-left: 32px;\n            }\n        }\n    }\n\n}'],
+                sourcesContent: ['@import "../variables";\n\n.gallery-item-description {\n\n    pre {\n        float: left;\n        background: transparent;\n        outline: none;\n        border: 1px solid transparent;\n        resize: none;\n\n        &.focus {\n            border: 1px solid #bbb;\n            resize: both;\n        }\n    }\n\n    .gallery-item-description-actions {\n        button {\n            position: absolute;\n\n            &.cancel {\n                margin-left: 32px;\n            }\n        }\n    }\n\n}'],
                 sourceRoot: "webpack://"
             }
         ])
@@ -20987,7 +20995,7 @@
     function (e, t, n) {
         t = e.exports = n(21)(), t.push([
             e.id,
-            ".gallery-viewer-item{display:flex;flex-direction:column;margin:auto;padding:30px;padding-bottom:50px}@media screen and (max-width:1024px){.gallery-viewer-item{padding:0;padding-bottom:50px}}.gallery-viewer-item textarea{background-color: transparent; overflow: visible; color:#424242;-webkit-text-fill-color:#424242;-webkit-opacity:1;resize:none;border:none;font-size:11px;float:left;clear:both;max-width:92vw}.gallery-viewer-item img{max-width:calc(100vw - 60px);float:left;height:auto;width:auto;align-self:center;max-height:calc(100vh - 56px - 40px);transition:opacity .4s}@media screen and (min-width:1024px){.gallery-viewer-item img{max-width:calc(100vw - 180px - 60px)}}.gallery-viewer-item img:not(.landscape,.portrait){opacity:0;height:calc(100vh - 56px - 40px);width:calc(100vw - 20px)}.gallery-viewer-item img.landscape{height:auto}@media screen and (max-width:667px){.gallery-viewer-item img.landscape{max-width:calc(100vw - 20px)}}@media screen and (min-width:1024px){.gallery-viewer-item img.landscape{max-width:calc(100vw - 180px - 200px)}}.gallery-viewer-item img.portrait{width:auto}",
+            ".gallery-viewer-item{display:flex;flex-direction:column;margin:auto;padding:30px;padding-bottom:50px}@media screen and (max-width:1024px){.gallery-viewer-item{padding:0;padding-bottom:50px}}.gallery-viewer-item pre {background-color: transparent; overflow: visible; color:#424242;-webkit-text-fill-color:#424242;-webkit-opacity:1;resize:none;border:none;font-size:11px;float:left;clear:both;max-width:92vw}.gallery-viewer-item img{max-width:calc(100vw - 60px);float:left;height:auto;width:auto;align-self:center;max-height:calc(100vh - 56px - 40px);transition:opacity .4s}@media screen and (min-width:1024px){.gallery-viewer-item img{max-width:calc(100vw - 180px - 60px)}}.gallery-viewer-item img:not(.landscape,.portrait){opacity:0;height:calc(100vh - 56px - 40px);width:calc(100vw - 20px)}.gallery-viewer-item img.landscape{height:auto}@media screen and (max-width:667px){.gallery-viewer-item img.landscape{max-width:calc(100vw - 20px)}}@media screen and (min-width:1024px){.gallery-viewer-item img.landscape{max-width:calc(100vw - 180px - 200px)}}.gallery-viewer-item img.portrait{width:auto}",
             "",
             {
                 version: 3,
@@ -20995,7 +21003,7 @@
                 names: [],
                 mappings: "AAEA,qBAEI,aACA,sBAEA,YAGA,aAEA,mBAAqB,CAErB,qCAZJ,qBAcQ,UAEA,mBAAqB,CAoD5B,CApED,8BAoBQ,cACA,gCACA,kBACA,YACA,YACA,eACA,WACA,WACA,cAAgB,CA5BxB,yBAkCQ,6BAMA,WACA,YACA,WACA,kBAEA,qCACA,sBAA0B,CAV1B,qCApCR,yBAqCY,oCALoB,CAmC3B,CAnEL,mDAiDY,UACA,iCACA,wBAAW,CAnDvB,mCA6DY,WAAa,CANb,oCAvDZ,mCAwDgB,4BAAe,CAMtB,CAJG,qCA1DZ,mCA2DgB,qCAAe,CAGtB,CA9DT,kCAiEY,UAAY,CACf",
                 file: "GalleryViewerItem.scss",
-                sourcesContent: ['@import "../variables";\n\n.gallery-viewer-item {\n    display: -webkit-flex;\n    display: flex;\n    flex-direction: column;\n\n    margin: auto;\n\n    //noinspection CssOptimizeSimilarProperties\n    padding: 30px;\n    //noinspection CssOptimizeSimilarProperties\n    padding-bottom: 50px;\n\n    @media screen and (max-width: $layout-screen-size-threshold) {\n        //noinspection CssOptimizeSimilarProperties\n        padding: 0;\n        //noinspection CssOptimizeSimilarProperties\n        padding-bottom: 50px;\n    }\n\n    textarea {\n        color: #424242;\n        -webkit-text-fill-color: #424242;\n        -webkit-opacity: 1;\n        resize: none;\n        border: none;\n        font-size: 11px;\n        float: left;\n        clear: both;\n        max-width: 92vw;\n    }\n\n    img {\n        $max-picture-width: calc(100vw - #{$layout-drawer-narrow} - 60px);\n\n        max-width: calc(100vw - 60px);\n\n        @media screen and (min-width: $layout-screen-size-threshold) {\n            max-width: $max-picture-width;\n        }\n\n        float: left;\n        height: auto;\n        width: auto;\n        align-self: center;\n\n        max-height: calc(100vh - #{$header-height} - 40px);\n        transition: 400ms opacity;\n\n        &:not(.landscape, .portrait) {\n            opacity: 0;\n            height: calc(100vh - #{$header-height} - 40px);\n            width: calc(100vw - 20px);\n        }\n\n        &.landscape {\n            @media screen and (max-width: $threshold-phone) {\n                max-width: calc(100vw - 20px);\n            }\n            @media screen and (min-width: $layout-screen-size-threshold) {\n                max-width: calc(100vw - #{$layout-drawer-narrow} - 200px);\n            }\n            height: auto;\n        }\n\n        &.portrait {\n            width: auto;\n        }\n    }\n}\n'],
+                sourcesContent: ['@import "../variables";\n\n.gallery-viewer-item {\n    display: -webkit-flex;\n    display: flex;\n    flex-direction: column;\n\n    margin: auto;\n\n    //noinspection CssOptimizeSimilarProperties\n    padding: 30px;\n    //noinspection CssOptimizeSimilarProperties\n    padding-bottom: 50px;\n\n    @media screen and (max-width: $layout-screen-size-threshold) {\n        //noinspection CssOptimizeSimilarProperties\n        padding: 0;\n        //noinspection CssOptimizeSimilarProperties\n        padding-bottom: 50px;\n    }\n\n    pre {\n        color: #424242;\n        -webkit-text-fill-color: #424242;\n        -webkit-opacity: 1;\n        resize: none;\n        border: none;\n        font-size: 11px;\n        float: left;\n        clear: both;\n        max-width: 92vw;\n    }\n\n    img {\n        $max-picture-width: calc(100vw - #{$layout-drawer-narrow} - 60px);\n\n        max-width: calc(100vw - 60px);\n\n        @media screen and (min-width: $layout-screen-size-threshold) {\n            max-width: $max-picture-width;\n        }\n\n        float: left;\n        height: auto;\n        width: auto;\n        align-self: center;\n\n        max-height: calc(100vh - #{$header-height} - 40px);\n        transition: 400ms opacity;\n\n        &:not(.landscape, .portrait) {\n            opacity: 0;\n            height: calc(100vh - #{$header-height} - 40px);\n            width: calc(100vw - 20px);\n        }\n\n        &.landscape {\n            @media screen and (max-width: $threshold-phone) {\n                max-width: calc(100vw - 20px);\n            }\n            @media screen and (min-width: $layout-screen-size-threshold) {\n                max-width: calc(100vw - #{$layout-drawer-narrow} - 200px);\n            }\n            height: auto;\n        }\n\n        &.portrait {\n            width: auto;\n        }\n    }\n}\n'],
                 sourceRoot: "webpack://"
             }
         ])
@@ -45025,6 +45033,17 @@
                 r.createElement("p", {}, "Unfortunately, as someone with an Asian background, I notice another negative effect of Covid which is more racism towards Asian people. In the art world racism is still mostly about discrimination towards black people and about 'black lives matter', discrimination towards women and towards the LGBTQ community. \nRacism is a bad thing and should definitely be discussed, but it strikes me that a lot of people don't understand that\nracism can apply to all races and genders."),
                 r.createElement("p", {}, "My work is largely inspired by Ukiyo-E, which is a type of wood print art which started in Japan around 1600/1700. This was about the same time as realism and 'Rembrandt' in the ‘Western world’. The art that was made during this time has contributed a lot to history by visually giving a\ngood picture of what that time looked like because they then used paintings as we used photos, because this technique did not yet exist.\nWestern art history started from that point and, due to the invention of photography, it was no longer necessary to paint realistically, and other movements have arisen such as impressionism and modernism. In Japan this went very differently. Ukiyo-E has been working the opposite way, it has been partly inspired by the more realistic way of painting from the west, but those were the artists who lived around 1800, while Ukiyo-e started around 1600. And started with a completely different approach which was often not based on reality with samples, and bizarre Pictures. A lot of western artists during impressionism were inspired by Ukiyo-e, such as some famous paintings by Vincent Van Gogh."),
                 r.createElement("p", {}, "Because I am often seen as an Asian artist by my appearance and name, I like to play with the way the ‘viewer’ interprets my work because with my name and appearance it is mostly seen as ‘Japanese’ art while I have never lived in Japan. So this will never be a neutral interpretation, which is\nnot a good or a bad thing, but it’s interesting to investigate how you can also manipulate the viewer this way and sometimes even confront them with their ‘sometimes’ blurred vision influenced by society.")))
+        }
+    },
+    function (e, t, n) {
+        "use strict";
+        Object.defineProperty(t, "__esModule", { value: !0 });
+        var r = n(2);
+        n(767), t.PublicationsPage = function () {
+            return r.createElement("div", { className: "page-wrapper about-page publications-page", style: {justifyContent: "unset", top: "50px"} }, 
+                r.createElement("div", {style: {hyphens: "auto", wordBreak: "break-word", padding: "1em 0", textAlign: "justify"}}, r.createElement("h4", {style: {marginTop: `1rem`,marginBottom: `2rem`, textAlign: "right", width: `100%`}}, "Publications"),
+                    r.createElement("p", {}, "What I think is important is that, in addition to the knowledge we have through the media, \nart can create a different and personal view of what it is like to live in this time, such as 'The diary of Anne Frank' about the Second World War, instead of only media reports, figures and graphs. \nWhat I notice about the interpretation of history is that it is mostly based on the time we live in and even then it is hard to make conclusions, because a lot is still unknown or kept secret. But afterwards it is easier to look at a situation objectively with more knowledge and with as little 'manipulation' from others such as the media and propaganda.")
+                ))
         }
     }
 ]));
