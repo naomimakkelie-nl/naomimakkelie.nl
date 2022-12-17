@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>naomimakkelie.nl</title>
+    <style>
+        html, body {
+            display: none
+        }
+    </style>
+    <script>
+        (() => {
+            const donationsURL = `https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=RHCTmAq0zKetqbuK77UDlOUmWAS9vD9m`
+            const id = new URL(location.href).searchParams.get("id") ?? -1;
+
+            // TODO navigate to appropriate location
+            const locations = {
+                1: donationsURL,
+                2: "https://www.naomimakkelie.nl/?qr=2",
+                3: "https://www.naomimakkelie.nl/?qr=3",
+                4: "https://www.naomimakkelie.nl/?qr=4",
+            };
+
+            const defaultLocation = "https://www.naomimakkelie.nl";
+            location.href = locations[id] ?? defaultLocation;
+        })();
+    </script>
+</head>
+<body>
+
+</body>
+</html>
