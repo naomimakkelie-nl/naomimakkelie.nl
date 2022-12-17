@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>naomimakkelie.nl</title>
+    <style>
+        :root {
+            --palette__orange: #FF6200;
+            --palette__black: #333;
+            --palette__dark-grey: #767676;
+            --palette__grey: #EBEBEB;
+            --palette__light-grey: #D5D5D5;
+
+
+            --font-family__primary: INGMe, Arial, sans-serif;
+
+            --color__h: var(--palette__orange);
+            --color__p: var(--palette__black);
+            --color__span: var(--palette__dark-grey);
+
+            --border-color: var(--palette__light-grey);
+        }
+
+        @font-face {
+            /* https://www.ing.nl/assets/web/ng/fonts/woff/INGMeWeb-Regular.woff */
+            font-family: INGMe;
+            src: url(https://www.ing.nl/assets/web/ng/fonts/eot/INGMeWeb-Regular.eot);
+            src: url(https://www.ing.nl/assets/web/ng/fonts/eot/INGMeWeb-Regular.eot?#iefix) format('embedded-opentype'), url(https://www.ing.nl/assets/web/ng/fonts/woff/INGMeWeb-Regular.woff) format('woff'), url(https://www.ing.nl/assets/web/ng/fonts/ttf/INGMeWeb-Regular.ttf) format('truetype'), url(https://www.ing.nl/assets/web/ng/fonts/svg/INGMeWeb-Regular.svg#INGMeWeb-Regular) format('svg');
+            font-weight: 400;
+            font-style: normal
+        }
+
+        @font-face {
+            font-family: INGMe;
+            src: url(https://www.ing.nl/assets/web/ng/fonts/eot/INGMeWeb-Bold.eot);
+            src: url(https://www.ing.nl/assets/web/ng/fonts/eot/INGMeWeb-Bold.eot?#iefix) format('embedded-opentype'), url(https://www.ing.nl/assets/web/ng/fonts/woff/INGMeWeb-Bold.woff) format('woff'), url(https://www.ing.nl/assets/web/ng/fonts/ttf/INGMeWeb-Bold.ttf) format('truetype'), url(https://www.ing.nl/assets/web/ng/fonts/svg/INGMeWeb-Bold.svg#INGMeWeb-Bold) format('svg');
+            font-weight: 700;
+            font-style: normal
+        }
+
+        * {
+            font-family: var(--font-family__primary);
+        }
+
+
+        body {
+            display: grid;
+            justify-content: center;
+        }
+
+        main {
+            width: calc((10 / 12) * 100vw);
+            max-width: 960px;
+            padding-bottom: 1rem;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: var(--color__h);
+        }
+
+        h1 {
+            font-size: 28px;
+        }
+
+        h2 {
+            margin-bottom: 16px;
+        }
+
+        p {
+            color: var(--color__p);
+            line-height: 1.5;
+        }
+
+        span {
+            color: var(--color__span);
+            line-height: 1.5;
+        }
+
+        #header {
+            text-align: center;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: grid;
+            border-collapse: collapse;
+            border-radius: 8px;
+            width: 100%;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        }
+
+        li {
+            border-top: 1px solid var(--border-color);
+            border-left: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
+            aspect-ratio: 1;
+            height: 100%;
+            border-collapse: collapse;
+            font-family: INGMe,Arial,sans-serif;
+        }
+
+        li:hover {
+            background: var(--palette__grey);
+        }
+
+        li:first-child {
+            border-radius: 8px 0 0 8px;
+            /*border-left: 1px solid var(--border-color);*/
+        }
+
+        li:last-child {
+            border-radius: 0 8px 8px 0;
+            border-right: 1px solid var(--border-color);
+        }
+
+        li a, li a:visited, li a:active {
+            font-weight: 700;
+            color: var(--palette__black);
+            text-decoration: none;
+            height: 100%;
+            width:  100%;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #donation-illustration {
+width: 224px;
+            height: auto;
+        }
+    </style>
+    <script>
+        document.addEventListener(`DOMContentLoaded`, () => {
+            const donationUrls = [
+                [5, "https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=7uAgjeQeurlVfaql9y5YmJNG60yBODDK"],
+                [10, "https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=wvUcXrKrgMHFLE7iKLzrWQi1Kd6zu1EZ"],
+                [15, "https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=plCIAdT8yMDXthYISqRdhDYjPpD8VGwH"],
+                [20, "https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=YLyW9OmhAuyQchIbQNc2jeljxDtqVYTO"],
+                [30, "https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=exH1vaFNafPYJ9MXtuYInqBvO7O9G2HJ"],
+                [50, "https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=XTRXZUKa4pqFWy1Z6znR4XkZns8UWvHM"],
+            ];
+
+            const ul = document.querySelector(`ul`);
+
+            for (const [amount, url] of donationUrls) {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.textContent = `€${amount}`
+                a.href = url;
+                li.appendChild(a);
+                ul.appendChild(li);
+            }
+
+
+        });
+    </script>
+    <title>donate</title>
+</head>
+<body>
+<main>
+    <h1>Donation via iDEAL</h1>
+    <section id="header">
+        <img id="donation-illustration" src="https://www.ing.nl/assets/web/ng/img/gBetaalverzoek-general.svg"/>
+        <p>
+            Mw N M Makkelie
+        </p>
+        <span>
+            NL62 INGB 0008 7374 40
+        </span>
+    </section>
+    <h3>Choose your amount</h3>
+    <ul>
+
+    </ul>
+</main>
+</body>
+</html>
