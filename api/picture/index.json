@@ -8,7 +8,7 @@
         "length": 520258,
         "chunkSize": 1,
         "metadata": {
-            "text": "Battlefield on Valentine’s Day, 50 x 70 cm (without frame), watercolour, ink and pastelchark on paper, 2022",
+            "text": "Battlefield on Valentine’s Day, 50 x 70 cm (without frame), watercolour, ink and pastelchalk on paper, 2022",
             "ordinal": 0,
             "visible": true,
             "deleted": null
@@ -114,7 +114,7 @@
         "length": 520258,
         "chunkSize": 1,
         "metadata": {
-            "text": "Seasick p.2, 50 x 70 cm (without frame), watercolour, ink and pastelchark on paper, 2022",
+            "text": "Seasick p.2, 50 x 70 cm (without frame), watercolour, ink and pastelchalk on paper, 2022",
             "ordinal": 0,
             "visible": true,
             "deleted": null
@@ -234,7 +234,7 @@
         "length": 475392,
         "chunkSize": 1,
         "metadata": {
-            "text": "First Summer Of Covid, Amsterdam, 70 x 50 cm (without frame), watercolour, ink and pastelchark on paper, 2022",
+            "text": "First Summer Of Covid, Amsterdam, 70 x 50 cm (without frame), watercolour, ink and pastelchalk on paper, 2022",
             "ordinal": 0,
             "visible": true,
             "deleted": null
@@ -311,7 +311,7 @@
         "metadata": {
             "text": "Detail 'Memoirs of a geisha'",
             "ordinal": 0,
-            "visible": false,
+            "visible": true,
             "deleted": null
         }
     },
@@ -326,7 +326,7 @@
         "metadata": {
             "text": "Detail 'Memoirs of a geisha'",
             "ordinal": 0,
-            "visible": false,
+            "visible": true,
             "deleted": null
         }
     },
@@ -354,7 +354,7 @@
         "length": 475392,
         "chunkSize": 1,
         "metadata": {
-            "text": "Peggy Blue, 70 x 50 cm (without frame), watercolour, ink and pastelchark on paper, 2022",
+            "text": "Peggy Blue, 70 x 50 cm (without frame), watercolour, ink and pastelchalk on paper, 2022",
             "ordinal": 0,
             "visible": true,
             "deleted": null

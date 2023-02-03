@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "start": "concurrently 'npm run uglify:watch' 'livereload -f js/bundle.min.js,index.html,api/picture/index.json' 'serve -p 4000'",
+    "start": "concurrently 'npm run uglify:watch' 'serve -p 4000'",
     "uglify": "uglifyjs  js/bundle.js -o js/bundle.min.js",
     "uglify:watch": "npm run uglify && onchange js/bundle.js index.html api/picture/* css/* fonts/* -- npm run uglify",
     "test": "echo \"Error: no test specified\" && exit 1"
