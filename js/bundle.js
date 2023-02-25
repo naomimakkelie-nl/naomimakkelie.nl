@@ -15134,11 +15134,14 @@
                 var e = this;
                 return a.createElement("div", {
                     className: "gallery-viewer-item",
-                    key: this.props.picture.id
-                }, a.createElement(d.default, {
+                    // className: this.props.picture.metadata.html ? "" : "gallery-viewer-item",
+                    style: this.props.picture.metadata.html ? {maxWidth: "80vw", width: "100%", maxHeight: "80vh", height: "100%"} : {},
+                    key: this.props.picture.id,
+                    dangerouslySetInnerHTML: this.props.picture.metadata.html ? {__html: this.props.picture.metadata.html} : undefined,
+                }, ...(this.props.picture.metadata.html ? [] : [a.createElement(d.default, {
                     once: !0,
                     height: "80vh",
-                    offset: 500
+                    offset: 500,
                 }, a.createElement("img", {
                     className: this.state.pictureOrientation ? this.state.pictureOrientation.toLowerCase() : "",
                     src: "./api/picture/" + this.props.picture.id + "/file",
@@ -15153,7 +15156,7 @@
                     rows: this.stringUtil.getLineCount(this.props.picture.metadata.text) + 2,
                     value: this.props.picture.metadata.text,
                     disabled: !0
-                }, this.props.picture.metadata.text) : null)
+                }, this.props.picture.metadata.text) : null]))
             }, o([
                 l.Autowired,
                 i("design:type", c.PictureActionCreators)
