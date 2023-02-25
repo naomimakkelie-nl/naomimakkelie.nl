@@ -14082,7 +14082,7 @@
         Object.defineProperty(t, "__esModule", { value: !0 });
         var r = n(2);
         n(767), t.AboutPage = function () {
-            return r.createElement("div", { className: "page-wrapper about-page" }, r.createElement("iframe", {id: `about-pdf`, src: "https://drive.google.com/viewerng/viewer?embedded=true&url=https://naomimakkelie.nl/publications.pdf", border:"none", frameBorder: 0, style: {border:0, width: "100%", height: "100%"}                }, null));
+            return r.createElement("div", { className: "page-wrapper about-page" }, r.createElement("iframe", {id: `about-pdf`, src: "/publications/publications_%20copy.html", border:"none", frameBorder: 0, style: {border:0, width: "100%", height: "100%"}                }, null));
         }
     },
     function (e, t, n) {
