@@ -13965,7 +13965,7 @@
             }
 
             return r(t, e), t.prototype.render = function () {
-                return i.createElement("div", { className: "c-menu" }, i.createElement("h5", { className: "logo" }, "Naomi Mitsuko Makkelie"), i.createElement("ul", null, i.createElement("li", null, i.createElement(a.NavLink, {
+                return i.createElement("div", { className: "c-menu", style: {height: "100%",} }, i.createElement("h5", { className: "logo" }, "Naomi Mitsuko Makkelie"), i.createElement("ul", null, i.createElement("li", null, i.createElement(a.NavLink, {
                     activeStyle: { fontWeight: "bold" },
                     to: c.ROUTES.GALLERY
                 }, i.createElement("span", null, "Work"))), i.createElement("li", null, i.createElement(a.NavLink, {
@@ -13988,7 +13988,7 @@
                     href: "https://www.instagram.com/naomi.mitsuko.makkelie/",
                     title: "Instagram",
                     className: "instagram-link"
-                })), this.renderLoggedInUserMenuItems()))
+                })), this.renderLoggedInUserMenuItems()), i.createElement("span", {style: { backgroundImage: "url('/img/mondriaan-fonds-logo.png')", backgroundSize: "contain", width: "64px", height: "64px", display: "inline-block", position: "absolute", bottom: "1rem", left: "1rem", }}))
             }, t.prototype.renderLoggedInUserMenuItems = function () {
                 return this.props.user ? [
                     i.createElement("li", { key: 0 }, " "),
