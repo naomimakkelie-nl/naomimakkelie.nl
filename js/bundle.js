@@ -14267,7 +14267,7 @@
                                         4
                                     ]), [
                                         4,
-                                        emailjs.send("default_service", "default", e)
+                                        fetch("/api/contact", {method: "POST", body: JSON.stringify(e), headers: {"Content-Type": "application/json"}})
                                         // this.server.email.send(e)
                                     ];
                                 case 2:
