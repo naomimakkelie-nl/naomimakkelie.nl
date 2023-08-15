@@ -21030,7 +21030,7 @@
     function (e, t, n) {
         t = e.exports = n(21)(), t.push([
             e.id,
-            '@media screen and (min-width:1024px){.c-menu ul{margin-top:1cm;margin-left:.5cm}}.c-menu .instagram-link{width:16px;height:16px;margin-top:20px;opacity:.8;display:block;background-size:auto 100%;background-image:url("//en.instagram-brand.com/wp-content/uploads/2016/11/glyph-icons2.png")}.c-menu .instagram-link:hover{opacity:1}',
+            '@media screen and (min-width:1024px){.c-menu ul{margin-top:1cm;margin-left:.5cm}}.c-menu .instagram-link{width:16px;height:16px;margin-top:20px;opacity:.8;display:block;background-size:auto 100%;background-image:url("/img/instagram-logo.png")}.c-menu .instagram-link:hover{opacity:1}',
             "",
             {
                 version: 3,
