@@ -13977,7 +13977,7 @@
                 }, "Publications")),*/i.createElement("li", null, i.createElement(a.NavLink, {
                     activeStyle: { fontWeight: "bold" },
                     to: c.ROUTES.ABOUT
-                }, "About")), i.createElement("li", null, i.createElement(a.NavLink, {
+                }, "About & Updates")), i.createElement("li", null, i.createElement(a.NavLink, {
                     activeStyle: { fontWeight: "bold" },
                     to: c.ROUTES.CV
                 }, "CV")), i.createElement("li", null, i.createElement(a.NavLink, {
