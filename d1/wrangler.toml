@@ -1,0 +1,22 @@
+name = "d1"
+main = "src/index.ts"
+compatibility_date = "2023-06-17"
+
+# ENVIRONMENT VARIABLES
+# These are available from a worker as global variables
+# See https://developers.cloudflare.com/workers/platform/environment-variables/ for more info
+[vars]
+ALLOWED_ORIGINS = ["https://www.naomimakkelie.nl", "https://naomimakkelie.nl", "https://www2.naomimakkelie.nl"]
+HTTP_HEADER__ACCESS_CONTROL_ALLOW_ORIGIN = "https://naomimakkelie.nl https://www2.naomimakkelie.nl https://www.naomimakkelie.nl"
+HTTP_HEADER__ACCESS_CONTROL_ALLOW_METHODS = "GET, POST, PUT, PATCH, DELETE, OPTIONS"
+
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "naomimakkelie.nl"
+database_id = "396ab66e-ab5b-4267-9b8d-e78552ecb1a5"
+
+# Requests are processed in an optimal location, minimizing latency when making round-trips to a database or API.
+# See https://developers.cloudflare.com/workers/platform/smart-placement/#enable-smart-placement-beta
+[placement]
+mode = "smart"
+

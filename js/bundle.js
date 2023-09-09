@@ -13988,7 +13988,21 @@
                     href: "https://www.instagram.com/naomi.mitsuko.makkelie/",
                     title: "Instagram",
                     className: "instagram-link"
-                })), this.renderLoggedInUserMenuItems()), i.createElement("span", {style: { backgroundImage: "url('/img/mondriaan-fonds-logo.png')", backgroundSize: "contain", width: "64px", height: "64px", display: "inline-block", position: "absolute", bottom: "1rem", left: "1rem", }}))
+                })), this.renderLoggedInUserMenuItems()), i.createElement("form", {onSubmit: async e => {
+e.preventDefault();
+  const res = await fetch("https://naomimakkelie.nl/api/newsletter/subscribe", {method: "POST", headers: {"content-type": "application/json"}, body: JSON.stringify({email: document.getElementById("email").value})});
+
+  if (!res.ok) {
+    alert("An error occurred");
+    return;
+  }
+
+  const body = await res.json();
+
+ document.getElementById("newsletter-wrapper").innerHTML = `<p style="margin-bottom: 0.5rem; font-size: 0.9em; text-align: center; width: 100%; height: 5rem; vertical-align: center; display: flex; justify-content: center; align-items: center;">Subscribed successfully!</p>`;
+},id: "newsletter-wrapper", style: {padding: "1rem"}, dangerouslySetInnerHTML: {__html: `<p style="margin-bottom: 0.5rem; font-size: 0.8em;">Subscribe to my Newsletter:</p>
+        <input type="email" id="email" name="email" placeholder="Your Email" style="width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; margin-bottom: 0.5rem;">
+        <button id="subscribe_to_newsletter" type="submit" style="cursor: pointer; width: 100%; padding: 0.5rem; background-color: #000; color: #fff; border: none; border-radius: 4px;">Subscribe</button>`}}), i.createElement("span", {style: { backgroundImage: "url('/img/mondriaan-fonds-logo.png')", backgroundSize: "contain", width: "64px", height: "64px", display: "inline-block", position: "absolute", bottom: "1rem", left: "1rem", }}))
             }, t.prototype.renderLoggedInUserMenuItems = function () {
                 return this.props.user ? [
                     i.createElement("li", { key: 0 }, " "),
